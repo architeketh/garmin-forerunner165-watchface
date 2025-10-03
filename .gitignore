@@ -1,0 +1,11 @@
+# Garmin SDK build files
+bin/
+build/
+*.prg
+*.log
+*.tmp
+
+# IDE configs (optional)
+.settings/
+.project
+.classpath
